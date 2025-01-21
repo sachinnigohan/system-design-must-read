@@ -1,2 +1,2 @@
 # SystemDesign
-This repo contains System Design resources to learn basic to advance System Design Concepts.
+This repo contains resources to learn basic to advance System Design Concepts.
