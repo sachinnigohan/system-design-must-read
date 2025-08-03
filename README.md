@@ -16,9 +16,10 @@ I believe that these will not just help you to clear interviews for companies li
 **Videos to watch**
 
 **Books to read**
-1. [Design Data Intensive Applications by Martin Kleppmann](https://amzn.in/d/cf2c1cn)
-3. [System Design Interview: An Insider's Guide – Volume 1](https://amzn.in/d/d5J1o29)
-4. [System Design Interview: An Insider's Guide – Volume 2](https://amzn.in/d/dn9CIdK)
+1. [Design Data Intensive Applications by Martin Kleppmann - Must Read multiple iterations](https://amzn.in/d/cf2c1cn)
+2. [System Design Interview: An Insider's Guide – Volume 1](https://amzn.in/d/d5J1o29)
+3. [System Design Interview: An Insider's Guide – Volume 2](https://amzn.in/d/dn9CIdK)
+4. [Google SRE Book : NALSD Chapter](https://sre.google/workbook/non-abstract-design/)
 
 
 **Online courses to consider**
