@@ -1,3 +1,27 @@
+
+
 # System Design Must Read
-Hello,
-This is the curated list of resources and links one must go through not just to get into companies like Google, Meta, Microsoft, Amazon, UBER etc.
+
+Here I am trying to consolidate curated list of resources and links which I followed to get through Google L6. 
+
+I believe that these will not just help you to clear interviews for companies like Google, Meta, Microsoft, Amazon, UBER etc at senior or staff roles. They will also make you better software engineer and you can apply this knowledge in your day to day work.
+
+> ***If you are looking for shallow content this is not the place for you. Everything here will give you in-depth sense of how things work.***
+
+
+**Blogs to read**
+
+**Papers to go through**
+
+**Videos to watch**
+
+**Books to read**
+1. [Design Data Intensive Applications by Martin Kleppmann](https://amzn.in/d/cf2c1cn)
+3. [System Design Interview: An Insider's Guide – Volume 1](https://amzn.in/d/d5J1o29)
+4. [System Design Interview: An Insider's Guide – Volume 2](https://amzn.in/d/dn9CIdK)
+
+
+**Online courses to consider**
+
+**Behavioral and Leadership**
+
