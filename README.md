@@ -10,10 +10,14 @@ I believe that these will not just help you to clear interviews for companies li
 
 
 **Blogs to read**
-
+More soon
 **Papers to go through**
 
+    More soon
+
 **Videos to watch**
+
+    More soon
 
 **Books to read**
 1. [Design Data Intensive Applications by Martin Kleppmann - Must Read multiple iterations](https://amzn.in/d/cf2c1cn)
@@ -24,5 +28,8 @@ I believe that these will not just help you to clear interviews for companies li
 
 **Online courses to consider**
 
+    More soon
+
 **Behavioral and Leadership**
 
+    Upcoming
