@@ -1,6 +1,6 @@
 
 
-# System Design Must Read
+# System Design Must Read <WIP - Work in Progress>
 
 Here I am trying to consolidate curated list of resources and links which I followed to get through Google L6. 
 
@@ -13,11 +13,11 @@ I believe that these will not just help you to clear interviews for companies li
 More soon
 **Papers to go through**
 
-    More soon
+    <WIP> More soon
 
 **Videos to watch**
 
-    More soon
+    <WIP> More soon
 
 **Books to read**
 1. [Design Data Intensive Applications by Martin Kleppmann - Must Read multiple iterations](https://amzn.in/d/cf2c1cn)
@@ -28,8 +28,8 @@ More soon
 
 **Online courses to consider**
 
-    More soon
+    <WIP>More soon
 
 **Behavioral and Leadership**
 
-    Upcoming
+    <WIP>More soon
