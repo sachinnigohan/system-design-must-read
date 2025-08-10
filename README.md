@@ -16,7 +16,7 @@ More soon
     <WIP> More soon
 
 **Videos to watch**
-1.  Everything on this YouTube channel is really good stuff https://www.youtube.com/@SystemDesignInterview/
+1.  [Everything on this YouTube channel is really good stuff] (https://www.youtube.com/@SystemDesignInterview/)
 2. 
 
 **Books to read**
@@ -27,7 +27,7 @@ More soon
 
 
 **Online courses to consider**
-1. Grokking the System Design (1-2 Months before interview once done with Books) (https://www.educative.io/courses/grokking-the-system-design-interview)
+1. [Grokking the System Design (1-2 Months before interview once done with Books)](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 **Behavioral and Leadership**
 
