@@ -13,11 +13,18 @@ I believe that these will not just help you to clear interviews for companies li
 More soon
 **Papers to go through**
 
-    <WIP> More soon
+1. Google File System
+2. Amazon Dynamo DB
+3. 
 
 **Videos to watch**
-1.  [Everything on this YouTube channel is really good stuff] (https://www.youtube.com/@SystemDesignInterview/)
-2. 
+1.  [Everything on this YouTube channel - Really Good stuff](https://www.youtube.com/@SystemDesignInterview/)
+2.  [TAO: Facebook’s Distributed Data Store - Really Good](https://www.youtube.com/watch?v=sNIvHttFjdI)
+3. [Scaling Memcache at Facebook - Really Good](https://www.youtube.com/watch?v=m4_7W4XzRgk)
+4. [Scaling Facebook Live Videos to a Billion Users - Really Good
+]( https://www.youtube.com/watch?v=IO4teCbHvZw)
+5. [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
+6. [Raft - The Understandable Distributed Protocol - Best ever Tech Talk on Raft](https://www.youtube.com/watch?v=ro2fU8_mr2w)
 
 **Books to read**
 1. [Design Data Intensive Applications by Martin Kleppmann - Must Read multiple iterations](https://amzn.in/d/cf2c1cn)
@@ -28,6 +35,7 @@ More soon
 
 **Online courses to consider**
 1. [Grokking the System Design (1-2 Months before interview once done with Books)](https://www.educative.io/courses/grokking-the-system-design-interview)
+2. [System Design Deep Dive: Real-World Distributed Systems(Deep Stuff suggested if you are looking for Staff+ Levels)](https://www.educative.io/courses/system-design-deep-dive-real-world-distributed-systems)
 
 **Behavioral and Leadership**
 
